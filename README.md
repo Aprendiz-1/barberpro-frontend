@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Captura de tela 2023-05-27 200104](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/027d7b6e-8aa1-4eb1-8f9f-a3dd8cf94133)
+![Captura de tela 2023-05-27 201021](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/c02fd9e3-e5ce-4a36-acee-340de5e0931f)
+![Captura de tela 2023-05-27 200435](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/6f6ffb26-7b53-441a-ac8f-f62bbd746364)
+![Captura de tela 2023-05-27 200747](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/50c10943-b246-43a7-bda9-86786c1199f4)
+![Captura de tela 2023-05-27 200326](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/f3e9d18d-c60f-45ff-9611-ff9238c0ba01)
+![Captura de tela 2023-05-27 200535](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/881e2f3b-9eb8-4018-a666-3d91245a35e8)
+![Captura de tela 2023-05-27 200817](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/0fbad766-780d-4ce0-8446-2b545dac875e)
+![Captura de tela 2023-05-27 200514](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/7f498858-da4d-41b1-9857-0b4eacad92c7)
+![Captura de tela 2023-05-27 200600](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/e474cfee-50a2-42c7-b74f-1d86fa3781f9)
+![Captura de tela 2023-05-27 200655](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/bbf1f650-1468-49bb-ab8c-8cf7835bd42f)
+![screencapture-localhost-3000-profile-2023-05-27-20_16_21](https://github.com/Aprendiz-1/barberpro-frontend/assets/82540579/88c4128b-3ad4-4af5-8811-e1af072dc9fd)
